@@ -27,6 +27,3 @@ This is a simple Python automation project using Selenium WebDriver.
   ```bash
    python test_login.py
 
----
-
-Sandiya M 
