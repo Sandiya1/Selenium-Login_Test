@@ -24,7 +24,7 @@ This is a simple Python automation project using Selenium WebDriver.
    ```bash
    pip install selenium
 3.To Runs this:
-  '''bash
+  ```bash
    python test_login.py
 
 ---
